@@ -1,0 +1,178 @@
+/* header
+.header{
+    width: auto;
+    height: 20px;
+    border-color: black;
+    border: 1px;
+}
+.title-header{
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.img-iconmenu-header{
+    position: absolute;
+    justify-content: right;
+} */
+
+.container-content {
+    background: linear-gradient(99.03deg, #FBED96 -1%, #ABECD6 92.31%);
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1), 0px 23px 30px rgba(171, 236, 214, 0.2);
+    border-radius: 44px;
+}
+
+.container-banner {
+    align-content: ce;
+}
+
+.card-title {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 44px;
+    line-height: 60px;
+    /* identical to box height */
+    letter-spacing: -0.06em;
+    /* Default/gray/900 */
+    color: #111827;
+}
+
+.card-text {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 60px;
+    line-height: 118.6%;
+    /* or 71px */
+    text-align: center;
+    /* Dfault/gray/900 */
+    color: #111827;
+}
+
+.text-desc {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 33px;
+
+    /* Default/gray/900 */
+
+    color: #111827;
+}
+
+.content-ideas {
+    background-image: url(../icon/garisbawah1.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: 100px;
+    color: #189FFF;
+}
+
+.text-build {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 100%;
+    /* identical to box height, or 28px */
+    /* Default/white */
+    color: #FFFFFF;
+}
+
+.content-email {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 100%;
+    /* identical to box height, or 28px */
+    /* Default/white */
+    color: #FFFFFF;
+}
+
+.text-idea {
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 92px;
+    line-height: 82px;
+    /* or 89% */
+
+
+    /* Default/white */
+
+    color: #FFFFFF;
+}
+
+.content-footer {
+    /* Default/gray/900 */
+    background: #111827;
+    /* /shadow/xl */
+    box-shadow: 0px 20px 25px -5px rgba(0, 0, 0, 0.1), 0px 10px 10px -5px rgba(0, 0, 0, 0.04);
+    border-radius: 48px 48px 0px 0px;
+}
+
+.triologo {
+    width: 551px;
+    height: 205px;
+}
+
+.content-skill {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 52px;
+    line-height: 90%;
+    /* identical to box height, or 47px */
+
+
+    /* Default/gray/900 */
+
+    color: #111827;
+
+}
+
+.title-section {
+    font-size: 92px;
+    color: #111827;
+    font-weight: 500;
+    line-height: 82px;
+    margin-bottom: 60px;
+}
+
+.section-about-me {
+    background-image: url(../icon/garislengkung.png);
+    background-repeat: no-repeat;
+    display: block;
+    bottom: -12px;
+    left: 0;
+    /* color: #189FFF; */
+}
+
+.bg-img-a {
+    /* width: 353px; */
+    height: 200px;
+    background: #E23839;
+    border-radius: 18px;
+}
+
+.bg-img-b {
+    /* width: 353px; */
+    height: 200px;
+    background: #022516;
+    border-radius: 18px;
+
+}
+
+.bg-img-c {
+    /* width: 353px; */
+    height: 200px;
+    background: #ED7854;
+    border-radius: 18px;
+}
+
+#lates-projects .card {
+    border: none;
+}
